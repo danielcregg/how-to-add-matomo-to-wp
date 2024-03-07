@@ -4,7 +4,7 @@
 
 Matomo (formerly Piwik) is an open-source web analytics application that rivals Google Analytics. It offers even more features, including the ability to send custom daily, weekly, and monthly reports to your clients. Here's a video introduction to get you started: **Your introduction to Matomo Analytics!**
 
-[![Image Alt Text](https://img.youtube.com/vi/Qc2kooLNDiU/maxresdefault.jpg)](https://www.youtube.com/watch?v=<Qc2kooLNDiU>)
+[![Image Alt Text](https://img.youtube.com/vi/Qc2kooLNDiU/maxresdefault.jpg)](https://www.youtube.com/watch?v=Qc2kooLNDiU>)
 
 **Downloading and Unzipping Matomo:**
 
